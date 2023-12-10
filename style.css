@@ -1,0 +1,29 @@
+body{
+background: black;
+font:normal 15pt Arial;
+color:white;
+}
+header{
+text-align: center;
+font-family: monospace;
+}
+section{
+background:white;
+color:black;
+border-radius: 10px;
+padding: 15px;
+width:500px;
+margin: auto;
+}
+footer{
+text-align: center;
+font-style:italic;
+}
+div{
+	text-align: center;
+}
+#imagem{
+	width: 300px;
+	border-radius: 50px 50px 50px;
+	padding: 9px;
+}
